@@ -1,6 +1,6 @@
 # 🛒 Walmart Demand Forecasting using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on building an end-to-end **Demand Forecasting** solution for Walmart using historical weekly sales data. The objective is to accurately predict weekly sales across multiple Walmart stores and departments by leveraging historical sales records, store information, promotional markdowns, holidays, and external economic factors.
 
