@@ -1,4 +1,4 @@
-# 🛒 Walmart Demand Forecasting using Machine Learning
+# Walmart Demand Forecasting using Machine Learning
 
 ##  Project Overview
 
